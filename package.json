@@ -1,0 +1,25 @@
+{
+  "name": "private-angular2-learning",
+  "version": "1.0.0",
+  "description": "Private repository in which I learn Angular2",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szpurc/Private-Angular2-Learning.git"
+  },
+  "author": "Maciej Adamski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Szpurc/Private-Angular2-Learning/issues"
+  },
+  "homepage": "https://github.com/Szpurc/Private-Angular2-Learning#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  }
+}

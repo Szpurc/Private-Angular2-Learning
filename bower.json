@@ -1,0 +1,22 @@
+{
+  "name": "[Private] Angular2 learning",
+  "homepage": "https://github.com/Szpurc/Private-Angular2-Learning",
+  "authors": [
+    "Maciej Adamski"
+  ],
+  "description": "Private repository in which I learn Angular2",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.2.2"
+  }
+}
